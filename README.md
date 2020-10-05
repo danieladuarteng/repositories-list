@@ -1,6 +1,6 @@
-# Github Contribution Table
+# Repositories list
 
-![](github-contribution-table-1.gif)
+![](repositories-list.png)
 
 [Access the website](https://danieladuarteng.github.io/repositories-list/)
 
